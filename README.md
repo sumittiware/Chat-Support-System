@@ -5,13 +5,6 @@
 ## Technologies used : Flutter web, Flutter(android), Firebase(database and realtime behavior of the system)
 
 Chat Support System Dashboard [here](https://letstalk-4bd39.web.app)
-Client android app [here](# Branch-Intl Assignment
-
-## Chat Support System
-
-## Technologies used : Flutter web, Flutter(android), Firebase(database and realtime behavior of the system)
-
-Chat Support System Dashboard [here](https://letstalk-4bd39.web.app)
 Client android app [here](https://drive.google.com/file/d/14xVR2WcD3l--JMaodmXUVRyCG_hxu8Hi/view?usp=sharing)
 
 The website is made with Flutter(frontend) & Firebase(for realtime behavior), important packages used :
