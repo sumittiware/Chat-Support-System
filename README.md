@@ -2,7 +2,7 @@
 
 ## Chat Support System
 
-## Technologies used : Flutter web, Flutter(android), Firebase(database and realtime behavior of the system)
+### Technologies used : Flutter web, Flutter(android), Firebase(database and realtime behavior of the system)
 
 Chat Support System Dashboard [here](https://letstalk-4bd39.web.app)
 <br>Client android app [here](https://drive.google.com/file/d/14xVR2WcD3l--JMaodmXUVRyCG_hxu8Hi/view?usp=sharing)
@@ -14,7 +14,7 @@ The website is made with Flutter(frontend) & Firebase(for realtime behavior), im
     3) Flutter SVG to handle svg images.
     4) RandomAvtar to provide random unique avatar to each user.
     
-## Database Schemas : 
+### Database Schemas : 
     
     1) Message 
         {
@@ -35,7 +35,7 @@ The website is made with Flutter(frontend) & Firebase(for realtime behavior), im
         }
             
 
-## System works as follows :
+### System works as follows :
 
     1) As soon as the client send messege from the android app the messege is avaliable in user dashboard in ALL and UNASSIGNED section.
 
@@ -51,8 +51,7 @@ The website is made with Flutter(frontend) & Firebase(for realtime behavior), im
     
     7) Agent can search any user based on the Id using the search field provided in the dashboard.
 
-
-    Credentials for logging in to Agent-dashboard :
+### Credentials for logging in to Agent-dashboard :
 
     usernames : Rohit, Samule, Martin.
     password : 12345 same for all.
