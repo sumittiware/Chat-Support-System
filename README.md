@@ -1,5 +1,3 @@
-# Branch-Intl Assignment
-
 ## Chat Support System
 
 ### Technologies used : 
